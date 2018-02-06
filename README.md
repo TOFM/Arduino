@@ -1,2 +1,2 @@
 # Arduino
-This rep will include all of my arduino projects
+This repository will include all of my arduino projects
